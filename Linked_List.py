@@ -30,7 +30,7 @@ l.accept_data(1)
 l.accept_data(2)
 l.accept_data(3)
 l.accept_data(4)
-l.accept_data(5)
+l.accept_data(5324)
 
 l.display()
 
